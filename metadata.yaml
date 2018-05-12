@@ -1,0 +1,40 @@
+_repo: The-Hymns-of-Prudentius_14959
+_version: 0.1.0
+alternative_title: Cathemerinon. English
+contributor:
+  translator:
+    agent_name: Pope, R. Martin (Robert Martin)
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '5776'
+    url: http://www.gutenberg.org/2009/agents/5776
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prudentius
+    alias: Prudentius Clemens, Aurelius
+    birthdate: 348
+    gutenberg_agent_id: '5755'
+    url: http://www.gutenberg.org/2009/agents/5755
+    wikipedia: http://en.wikipedia.org/wiki/Prudentius
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14959'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Christian poetry, Latin -- Translations into English'
+- !lcsh 'Hymns, Latin -- Translations into English'
+- !lcsh 'Prudentius, 348- -- Translations into English'
+title: The Hymns of Prudentius
+url: http://www.gutenberg.org/ebooks/14959
