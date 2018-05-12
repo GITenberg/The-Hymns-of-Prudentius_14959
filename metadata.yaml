@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5755
     wikipedia: http://en.wikipedia.org/wiki/Prudentius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14959#The-Hymns-of-Prudentius
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
